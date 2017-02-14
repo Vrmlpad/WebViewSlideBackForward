@@ -1,0 +1,2 @@
+# WebViewSlideBackForward
+仿Android360浏览器、QQ浏览器等“滑屏前进后退”，解决H5内容左右滑动与Native滑动冲突
